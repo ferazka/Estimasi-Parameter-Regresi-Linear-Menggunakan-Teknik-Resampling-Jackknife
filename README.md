@@ -39,7 +39,7 @@ dengan teknik resampling Jackknife.
 ---
 
 ## Infografis
-![Infografis Project](infografis.png)
+![Infografis Project](Infografis Jackknife.jpg)
 
 ---
 
