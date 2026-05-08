@@ -38,11 +38,6 @@ dengan teknik resampling Jackknife.
 
 ---
 
-## Infografis
-![Infografis Project](Infografis-Jackknife.jpg)
-
----
-
 ## Anggota Kelompok
 | Nama | NIM |
 |---|---|
