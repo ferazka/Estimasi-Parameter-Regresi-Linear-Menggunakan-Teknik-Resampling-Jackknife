@@ -3,6 +3,11 @@
 
 ---
 
+## Infografis
+![Infografis Project](Infografis%20Jackknife.jpg)
+
+---
+
 ## Deskripsi Project
 Project ini menganalisis faktor-faktor yang memengaruhi Indeks Pembangunan Manusia (IPM) 
 di 15 kabupaten/kota Provinsi Lampung menggunakan regresi linear berganda yang divalidasi 
